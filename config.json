@@ -1,0 +1,12 @@
+{
+    "blogName": "Rain",
+    "blogSubTitle": "Life is Solo",
+    "blogKeywords": "SOLO,Blog,Node,博客",
+    "blogDescription": "Rain - 前端开发",
+    "domain": "solo.rain.net",
+    "sourcePath": "./source",
+    "distPath": "./dist",
+    "skinPath": "./source/skin",
+    "globalPath": "source/global",
+    "blogPath": "source/blogs"
+}

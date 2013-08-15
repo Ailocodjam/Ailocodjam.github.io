@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Rain</title>
+    <link>http://solo.rain.net</link>
+    <description>Rain - 前端开发</description>
+    <lastBuildDate>Mon, 12 Aug 2013 12:39:30 +0800</lastBuildDate>
+    <generator>Solo 2.0</generator>
+    <item>
+      <title>lgm</title>
+      <link>http://solo.rain.net/article/index.html</link>
+      <guid isPermaLink="true">http://solo.rain.net/article/index.html</guid>
+      <pubDate>Mon, 12 Aug 2013 12:39:30 +0800</pubDate>
+      <description>
+        <![CDATA[
+        <h1>hello toosolo</h1>
+        ]]>
+      </description>
+    </item>
+  </channel>
+</rss>

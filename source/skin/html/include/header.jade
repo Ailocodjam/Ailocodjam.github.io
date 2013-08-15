@@ -1,0 +1,14 @@
+header
+	div#logo
+		a(href="#{basePath}/index.html") #{blogName}
+		span.subTitle #{blogSubTitle}
+	nav
+		ul
+			li
+				a(href="#{basePath}/index.html") Index<br />首页
+			for categoryVal,categoryKey in categories
+				li
+					a(href="#{basePath}#{categoryVal.url}") #{categoryKey}<br />#{categoryKey}
+			for page in pages
+				li
+					a(href="#{basePath}/page/#{page.url}.html") #{page.title}<br />#{page.title}
