@@ -25,9 +25,9 @@
     <section id="sidebar">
       <div class="sideTitle">作者简介</div>
       <div id="intro" class="sideContent">
-        <p class="avatar"><img src="http://tp4.sinaimg.cn/2160639311/180/5633952458/1"></p>
-        <p><strong>Rain</strong>，前端工程师，目前就职于<a href="http://cdc.tencent.com" target="_blank">腾讯CDC</a>。喜欢前端，喜欢折腾</p>
-        <p><a href="http://weibo.com/toooobug" target="_blank"><img src="http://www.sinaimg.cn/blog/developer/wiki/32x32.png"></a><a href="http://t.qq.com/TooBug" target="_blank"><img src="http://mat1.gtimg.com/app/opent/images/wiki/resource/weiboicon32.png"></a><a href="https://github.com/TooooBug" target="_blank"><img src="http://cdn-img.easyicon.cn/png/10981/1098194.gif"></a></p>
+        <p class="avatar"><img src="http://tp3.sinaimg.cn/1822920502/180/40019595820/1"></p>
+        <p><strong>Rain</strong>，前端工程师,喜欢前端，喜欢折腾</p>
+        <p><a href="http://weibo.com/u/1822920502" target="_blank"><img src="http://www.sinaimg.cn/blog/developer/wiki/32x32.png"></a><a href="http://t.qq.com/A15813312286" target="_blank"><img src="http://mat1.gtimg.com/app/opent/images/wiki/resource/weiboicon32.png"></a><a href="https://github.com/Ailocodjam" target="_blank"><img src="http://cdn-img.easyicon.cn/png/10981/1098194.gif"></a></p>
       </div>
     </section>
     <section id="content">
