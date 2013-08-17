@@ -7,13 +7,21 @@
     <lastBuildDate>Mon, 12 Aug 2013 12:39:30 +0800</lastBuildDate>
     <generator>Solo 2.0</generator>
     <item>
-      <title>lgm</title>
+      <title></title>
       <link>http://solo.rain.net/article/index.html</link>
       <guid isPermaLink="true">http://solo.rain.net/article/index.html</guid>
       <pubDate>Mon, 12 Aug 2013 12:39:30 +0800</pubDate>
       <description>
         <![CDATA[
-        <h1>hello toosolo</h1>
+        <h2>node-webkit</h2>
+
+<blockquote>
+  <p>this is a blockquote
+  this is <a href="http://www.baidu.com">me</a>
+  <strong>lgm</strong></p>
+</blockquote>
+
+<p><img src="/path/to/img.jpg" alt="alt text" title="Title" /></p>
         ]]>
       </description>
     </item>
