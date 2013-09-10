@@ -2,26 +2,37 @@
 <rss version="2.0">
   <channel>
     <title>Rain</title>
-    <link>http://solo.rain.net</link>
+    <link>http://lgm.rain.net</link>
     <description>Rain - 前端开发</description>
-    <lastBuildDate>Mon, 12 Aug 2013 12:39:30 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2013 23:45:10 +0800</lastBuildDate>
     <generator>Solo 2.0</generator>
     <item>
       <title></title>
-      <link>http://solo.rain.net/article/index.html</link>
-      <guid isPermaLink="true">http://solo.rain.net/article/index.html</guid>
-      <pubDate>Mon, 12 Aug 2013 12:39:30 +0800</pubDate>
+      <link>http://lgm.rain.net/article/index.html</link>
+      <guid isPermaLink="true">http://lgm.rain.net/article/index.html</guid>
+      <pubDate>Tue, 10 Sep 2013 23:45:10 +0800</pubDate>
       <description>
         <![CDATA[
-        <h2>node-webkit</h2>
+        <h2>index!</h2>
 
 <blockquote>
-  <p>this is a blockquote
-  this is <a href="http://www.baidu.com">me</a>
-  <strong>lgm</strong></p>
+  <p>this is just a test.</p>
 </blockquote>
+        ]]>
+      </description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://lgm.rain.net/article/helloworld.html</link>
+      <guid isPermaLink="true">http://lgm.rain.net/article/helloworld.html</guid>
+      <pubDate>Tue, 10 Sep 2013 23:45:10 +0800</pubDate>
+      <description>
+        <![CDATA[
+        <h2>helloworld!</h2>
 
-<p><img src="/path/to/img.jpg" alt="alt text" title="Title" /></p>
+<blockquote>
+  <p>hello world!</p>
+</blockquote>
         ]]>
       </description>
     </item>
